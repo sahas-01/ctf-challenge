@@ -1,11 +1,11 @@
 #### Aim
 
-Given a string aHR0cHM6Ly90bnM0bHBnbXppaXlwbnh4emVsNXNzNW55dTBuZnRvbC5sYW1iZGEtdXJsLnVzLWVhc3QtMS5vbi5hd3MvcmFtcC1jaGFsbGVuZ2UtaW5zdHJ1Y3Rpb25zLw== , solve the CTF
+Given a string, solve the CTF
 
 #### Process
-- decoded the given base64 to string
+- decoded the given base64 to string, got redirected to <a href="https://tns4lpgmziiypnxxzel5ss5nyu0nftol.lambda-url.us-east-1.on.aws/ramp-challenge-instructions/" rel="noreferrer" target="__blank">this link</a>
 - went to the given url and saw a huge text which happened to be markdown, which I viewed using a markdown tool
-- upon reading the instructions in the markdown, opened link in the first point, which took me to a link which said Capture the Flag
+- upon reading the instructions in the markdown, opened link in the first point, which took me to <a href="https://tns4lpgmziiypnxxzel5ss5nyu0nftol.lambda-url.us-east-1.on.aws/challenge" rel="noreferrer" target="__blank">this link</a> which said Capture the Flag
 - As per the instructions and the given pattern, read the instructions carefully, viewed the page source and inspected the html, took it to a file offline for further inspection
 - In my html file online(worth about 1000 lines), started matching the DOM with the given pattern.
 - Discarded all those which DOM elements that did not match the given pattern
