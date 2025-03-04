@@ -1,7 +1,7 @@
-### Aim:
+## Aim:
 Given a string, solve the CTF
 
-### Process:
+## Process:
 
 - decoded the given base64 to string, got redirected to <a href="https://tns4lpgmziiypnxxzel5ss5nyu0nftol.lambda-url.us-east-1.on.aws/ramp-challenge-instructions/" rel="noreferrer" target="__blank">this link</a>
 - went to the given url and saw a huge text which happened to be markdown, which I viewed using a markdown tool
@@ -20,5 +20,5 @@ Given a string, solve the CTF
 - Although, I tried to use assistance from LLMs during the completion of this process, I would say that it failed miserably,and I had to step in and figure out a way to deal with displaying the flag in the specified format on the UI.
 
 
-### Output:
+## Output:
 Source code for the final code is this repository
