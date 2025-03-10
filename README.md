@@ -17,7 +17,6 @@ Given a string, solve the CTF
   - kept appending values into a string that matched the above given conditions, then eventually, got a URL. 
 - On opening the URL, I was greeted with a text called uplifts.
 - I then proceeded to follow the instructions in the markdown, made this Sandbox environment(which is an unlisted link, hence only those with this link can see).
-- Although, I tried to use assistance from LLMs during the completion of this process, I would say that it failed miserably,and I had to step in and figure out a way to deal with displaying the flag in the specified format on the UI.
 
 
 ## Output:
